@@ -1,0 +1,486 @@
+��� 13, 2026 12:50:41 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:50:41 AM server.ServerApp initialize
+SEVERE: ������ ������� � �����: ���������� ��������� PERSON_DATA �� �����������
+��� 13, 2026 12:51:14 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:51:14 AM server.ServerApp initialize
+SEVERE: ������ ������� � �����: ���������� ��������� PERSON_DATA �� �����������
+��� 13, 2026 12:51:18 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:51:18 AM server.ServerApp initialize
+SEVERE: ������ ������� � �����: ���������� ��������� PERSON_DATA �� �����������
+��� 13, 2026 12:52:39 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:52:39 AM server.ServerApp loadData
+INFO: ��������� 107 ���������
+��� 13, 2026 12:52:39 AM server.ServerApp initialize
+INFO: ������ ������� ���������������
+��� 13, 2026 12:55:26 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:55:26 AM server.ServerApp initialize
+SEVERE: ������ ������� � �����: ���������� ��������� PERSON_DATA �� �����������
+��� 13, 2026 12:55:51 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 12:55:51 AM server.ServerApp loadData
+INFO: ��������� 107 ���������
+��� 13, 2026 12:55:51 AM server.ServerApp initialize
+INFO: ������ ������� ���������������
+мая 13, 2026 1:01:40 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 1:01:40 AM server.ServerApp loadData
+INFO: Загружено 107 элементов
+мая 13, 2026 1:01:40 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+��� 13, 2026 1:03:14 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 1:03:14 AM server.ServerApp loadData
+INFO: ��������� 107 ���������
+��� 13, 2026 1:03:14 AM server.ServerApp initialize
+INFO: ������ ������� ���������������
+��� 13, 2026 1:07:27 AM server.ServerApp initialize
+INFO: ������������� �������...
+��� 13, 2026 1:07:27 AM server.ServerApp loadData
+INFO: ��������� 107 ���������
+��� 13, 2026 1:07:27 AM server.ServerApp initialize
+INFO: ������ ������� ���������������
+мая 13, 2026 1:19:11 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 1:19:11 AM server.ServerApp loadData
+INFO: Загружено 107 элементов
+мая 13, 2026 1:19:11 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 13, 2026 1:38:19 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 1:38:19 AM server.ServerApp loadData
+INFO: Загружено 108 элементов
+мая 13, 2026 1:38:19 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 13, 2026 11:45:35 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 11:45:35 AM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 13, 2026 11:45:36 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 13, 2026 4:15:42 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 4:15:42 PM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 13, 2026 4:15:43 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 13, 2026 5:40:32 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 13, 2026 5:40:32 PM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 13, 2026 5:40:32 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 16, 2026 2:45:55 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 16, 2026 2:45:55 AM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 16, 2026 2:45:56 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 16, 2026 2:47:31 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 16, 2026 2:47:31 AM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 16, 2026 2:47:31 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 16, 2026 2:49:05 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 16, 2026 2:49:05 AM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 16, 2026 2:49:05 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 17, 2026 5:55:01 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 17, 2026 5:55:01 PM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 17, 2026 5:55:02 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 17, 2026 6:06:10 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 17, 2026 6:06:10 PM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 17, 2026 6:06:10 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 23, 2026 11:04:02 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 23, 2026 11:04:03 PM server.ServerApp loadData
+INFO: Загружено 104 элементов
+мая 23, 2026 11:04:03 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 23, 2026 11:55:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 23, 2026 11:55:00 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:22:27 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:22:28 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:31:21 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:31:22 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:39:52 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:39:53 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 11:00:16 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 11:00:18 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 11:16:38 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 11:16:39 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 11:35:25 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 11:35:25 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 11:49:24 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 11:49:25 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 11:56:00 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 11:56:01 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 12:04:33 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 12:04:34 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 12:13:03 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 12:13:04 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 12:37:24 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 12:37:25 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 12:48:47 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 12:48:48 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 12:52:39 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 12:52:40 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:00:55 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:00:56 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:01:38 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:01:39 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:10:45 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:10:46 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:24:23 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:24:24 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:29:48 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:29:49 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:38:45 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:38:46 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:43:46 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:43:47 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:52:05 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:52:06 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 1:56:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 1:56:00 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:02:03 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:02:03 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:11:11 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:11:11 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:18:27 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:18:27 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:22:35 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:22:36 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:26:04 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:26:04 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:33:22 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:33:23 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:51:05 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:51:06 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 2:54:39 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 2:54:40 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 3:09:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 3:09:00 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 3:41:35 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 3:41:35 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 3:57:42 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 3:57:43 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:20:38 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:20:39 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:35:22 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:35:23 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:47:19 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:47:20 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:47:38 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:47:38 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:49:02 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:49:03 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:49:22 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:49:22 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 4:50:56 PM server.ServerApp shutdown
+INFO: Сервер остановлен
+мая 24, 2026 4:51:01 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 4:51:02 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 5:06:04 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 5:06:05 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 5:06:56 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 5:06:57 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 5:12:11 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 5:12:12 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 5:20:35 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 5:20:36 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 5:39:11 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 5:39:12 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 24, 2026 6:00:20 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 24, 2026 6:00:21 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 25, 2026 11:42:47 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 25, 2026 11:42:48 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 25, 2026 11:53:10 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 25, 2026 11:53:11 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:14:44 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:14:46 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:21:32 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:21:33 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:24:26 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:24:27 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:26:26 PM server.ServerApp shutdown
+INFO: Сервер остановлен
+мая 26, 2026 10:27:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:27:00 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:45:46 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:45:47 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 10:56:05 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 10:56:06 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 11:00:38 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 11:00:38 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 26, 2026 11:09:40 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 26, 2026 11:09:40 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 27, 2026 5:56:39 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 5:56:40 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 27, 2026 7:17:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:17:01 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:25:04 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:25:05 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:25:48 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:25:48 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:27:41 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:27:42 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:29:31 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:29:31 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:32:22 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:32:23 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 27, 2026 7:37:56 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:37:57 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 27, 2026 7:47:07 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:47:08 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:47:46 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:47:47 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:48:30 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:48:31 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:48:47 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:48:48 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:49:31 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:49:31 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:52:33 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:52:34 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:53:00 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:53:00 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:56:25 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:56:26 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:56:49 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:56:50 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:57:11 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:57:11 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:57:56 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:57:57 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 7:58:37 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 7:58:37 PM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД
+мая 27, 2026 8:00:29 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 8:00:30 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 27, 2026 8:12:20 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 27, 2026 8:12:20 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:08:47 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:08:48 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:09:56 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:09:57 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:11:11 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:11:11 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:14:28 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:14:28 AM server.ServerApp initialize
+SEVERE: Ошибка БД: Ошибка инициализации схемы БД: ERROR: relation "users" already exists
+мая 29, 2026 12:16:38 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:16:39 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:17:18 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:17:18 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:18:08 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:18:08 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 12:20:37 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 12:20:37 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 2:04:38 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 2:04:40 AM server.ServerApp initialize
+SEVERE: Ошибка БД: Не удалось получить соединение с БД: Ошибка при попытке подсоединения.
+мая 29, 2026 2:19:41 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 2:19:44 AM server.ServerApp initialize
+SEVERE: Ошибка БД: Не удалось получить соединение с БД: Ошибка при попытке подсоединения.
+мая 29, 2026 2:20:09 AM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 29, 2026 2:20:10 AM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 29, 2026 2:21:26 AM server.ServerApp shutdown
+INFO: Сервер остановлен
+мая 31, 2026 11:26:01 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 31, 2026 11:26:02 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
+мая 31, 2026 11:54:40 PM server.ServerApp initialize
+INFO: Инициализация сервера...
+мая 31, 2026 11:54:40 PM server.ServerApp initialize
+INFO: Сервер успешно инициализирован
